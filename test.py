@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("これはふくまれてほしい")
+print("これはふくまれてほしい2")
+print("重複チェック")
+print("てすと")
+print("リファクタ後1")
