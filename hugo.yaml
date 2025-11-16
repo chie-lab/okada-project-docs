@@ -18,14 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Search
-      weight: 3
+      weight: 1
       params:
         type: search
 

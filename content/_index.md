@@ -1,11 +1,11 @@
 ---
 title: Okada Project Docs
-toc: false
+type: docs
+next: project_members
+toc: true
+sidebar:
+  open: true
 ---
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+これは開発プロジェクトでのドキュメント管理のためのベースです。  
+案件開始時に素早くドキュメント整備することを目標として作成しています。
