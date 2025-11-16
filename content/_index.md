@@ -1,17 +1,11 @@
 ---
-title: My Site
-toc: false
+title: Okada Project Docs
+type: docs
+next: project_members
+toc: true
+sidebar:
+  open: true
 ---
 
-This is the landing page.
-
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+これは開発プロジェクトでのドキュメント管理のためのベースです。  
+案件開始時に素早くドキュメント整備することを目標として作成しています。
