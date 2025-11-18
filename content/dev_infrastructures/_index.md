@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+開発基盤に関わる情報を管理します。
