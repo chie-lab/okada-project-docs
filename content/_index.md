@@ -1,7 +1,7 @@
 ---
 title: Okada Project Docs
 type: docs
-next: project_members
+next: introduction
 toc: true
 sidebar:
   open: true

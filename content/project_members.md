@@ -1,6 +1,7 @@
 ---
 title: プロジェクトメンバー
 type: docs
+prev: introduction/glossary/
 next: dev_infrastructures/
 toc: true
 sidebar:
